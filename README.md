@@ -24,7 +24,7 @@ img := image.New("https://golang.org/doc/gopher/frontpage.png"). // init
 thumb := img.Thumbnail // thumb also has type "Image"
 ````
 
-Check the struct's data fields for any info you might need.
+Check the struct's data fields for any info you might need. You can also create a Base64 off the original image if needed.
 
 # license
 LGPLv3. (You can use it in commercial projects as you like, but improvements/bugfixes must flow back to this lib.)
