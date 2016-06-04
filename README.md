@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/golibri/image.svg?branch=master)](https://travis-ci.org/golibri/text)
+[![Build Status](https://travis-ci.org/golibri/image.svg?branch=master)](https://travis-ci.org/golibri/image)
 [![GoDoc](https://godoc.org/github.com/golibri/image?status.svg)](https://godoc.org/github.com/golibri/image)
 [![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://github.com/syl20bnr/spacemacs)
 
